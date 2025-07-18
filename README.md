@@ -25,7 +25,7 @@
   <a href="https://leetcode.com/sparsh_gupta1234" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.instagram.com/sparshgupta892/" target="_blank">
+  <a href="https://www.instagram.com/sparshgupta832/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -37,7 +37,7 @@
 - 🔗 **[Cloud-Based URL Shortener](https://github.com/sparsh1111111/url-shortener)**  
   Serverless URL shortener using AWS Lambda, API Gateway, DynamoDB, and S3. *(Coming soon)*
 
-- 🧠 **[Health Management Website](https://healthconnect.netlify.app/)**  
+- 🧠 **[Health Management Website](https://heathconnect.netlify.app/)**  
   A full-stack health monitoring site for tracking physical and mental wellness.  
   👉 GitHub: [health-connect](https://github.com/sparsh1111111/health-connect)
 
