@@ -7,8 +7,8 @@
 
 - 🌩️ I’m deeply interested in **cloud-native apps**, **DevOps**, and **serverless architecture**
 - 🔧 Tech stack: `Java`, `Python`, `JavaScript`, `AWS`, `Docker`, `MySQL`
-- 📊 Solved **200+ DSA problems** on LeetCode
-- 🔭 Currently working on: a **Cloud-Based URL Shortener** using AWS Lambda, API Gateway & DynamoDB
+- 📊 Solved **200+ DSA problems** on LeetCode with a **100+ day streak**
+- 🔭 Currently working on a **Cloud-Based URL Shortener** using AWS Lambda, API Gateway & DynamoDB
 - 📈 Always learning, building, and contributing
 
 ---
@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/sparsh-gupta-9ba979267" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/sparsh111111" target="_blank">
+  <a href="https://github.com/sparsh1111111" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://leetcode.com/sparsh_gupta1234" target="_blank">
@@ -34,26 +34,28 @@
 
 ### 🚀 Featured Projects
 
-- 🔗 **[Cloud-Based URL Shortener](https://github.com/sparsh111111/url-shortener)**  
-  Serverless URL shortener using AWS Lambda, API Gateway, DynamoDB, and S3.
+- 🔗 **[Cloud-Based URL Shortener](https://github.com/sparsh1111111/url-shortener)**  
+  Serverless URL shortener using AWS Lambda, API Gateway, DynamoDB, and S3. *(Coming soon)*
 
-- ❤️ **[Health Management Website](https://github.com/sparsh111111/health-connect)**  
-  A full-stack web app to track and promote physical and mental health.
+- 🧠 **[Health Management Website](https://healthconnect.netlify.app/)**  
+  A full-stack health monitoring site for tracking physical and mental wellness.  
+  👉 GitHub: [health-connect](https://github.com/sparsh1111111/health-connect)
 
-- 🚘 **[Car Showcase Website](https://github.com/sparsh111111/car-showcase)**  
-  Static responsive site for luxury car listings using HTML, CSS, and JS.
+- 🚘 **[Car Showcase Website](https://carwebsite2.netlify.app/)**  
+  A responsive website featuring luxury and electric cars.  
+  👉 GitHub: [car-showcase](https://github.com/sparsh1111111/car-showcase)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sparsh111111&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sparsh111111&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sparsh1111111&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sparsh1111111&theme=radical" height="150"/>
 </p>
 
 ---
 
 ### 🔥 Fun Fact
 
-> I broke the 100+ day streak on LeetCode — and I'm still going! 🧠🔥
+> I broke the **100+ day streak on LeetCode** — and I'm still going! 💻🔥
