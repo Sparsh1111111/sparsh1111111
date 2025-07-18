@@ -39,11 +39,11 @@
 
 - 🧠 **[Health Management Website](https://heathconnect.netlify.app/)**  
   A full-stack health monitoring site for tracking physical and mental wellness.  
-  👉 GitHub: [health-connect](https://github.com/sparsh1111111/health-connect)
+  👉 GitHub: [health-connect](https://github.com/sparsh1111111/HealthConnect)
 
 - 🚘 **[Car Showcase Website](https://carwebsite2.netlify.app/)**  
   A responsive website featuring luxury and electric cars.  
-  👉 GitHub: [car-showcase](https://github.com/sparsh1111111/car-showcase)
+  👉 GitHub: [car-showcase](https://github.com/sparsh1111111/CarProject)
 
 ---
 
