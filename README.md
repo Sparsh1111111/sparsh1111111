@@ -1,16 +1,19 @@
-## Hi there 👋
+### 👋 Hey there, I'm Sparsh Gupta
 
-<!--
-**Sparsh1111111/sparsh1111111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Cloud Engineer | AWS Certified  
+💡 Passionate about cloud-native development and serverless architecture  
+🔧 Tech Stack: Java, Python, JavaScript, AWS, Docker, MySQL  
+📊 Solved 200+ DSA problems on LeetCode  
+📦 Currently building a cloud-based URL shortener using AWS Lambda, API Gateway, and DynamoDB  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Connect With Me**  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/sparsh-gupta-9ba979267)  
+- 🧠 [LeetCode](https://leetcode.com/sparsh_gupta1234)  
+- 📸 [Instagram](https://www.instagram.com/sparshgupta832/)  
+- 🗂️ [Projects](https://github.com/sparsh111111?tab=repositories)
+
+---
+
+🧰 Always curious. Always building.
